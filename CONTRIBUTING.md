@@ -9,7 +9,9 @@ Simple guidelines to get your changes accepted quickly:
 - Add short, clear descriptions to your PRs explaining why the change is needed.
 
 Automated checks
+
 - This project uses ESLint. Please run `npm run lint` and fix issues before submitting a PR.
 
 License
+
 - By contributing you agree that your contributions will be licensed under the project's MIT license.

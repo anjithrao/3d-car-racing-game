@@ -97,11 +97,8 @@ This project is currently in active development — "building" phase. There are 
 
 ## Screenshot
 
-Below is an in-engine screenshot preview. To show it in this README, save your screenshot as `preview.png` in `public/screenshots/` (create the folder if it doesn't exist). Vite serves `public/` at the web root, so the image will be available at `/screenshots/preview.png`.
-
-If you want, I can add the screenshot file into the repo for you — tell me and I'll create `public/screenshots/preview.png` (or another filename you prefer).
-
-![In-game screenshot](/screenshots/preview.png)
+Below is an in-engine screenshot preview.
+![alt text](image.png)
 
 ## Troubleshooting
 
