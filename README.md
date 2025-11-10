@@ -34,7 +34,7 @@ Key files
 
 ## Install
 
-Open PowerShell in the project root (`c:\Users\anjit\Desktop\Projects\3d game\racing-game`) and run:
+Open PowerShell in the project root and run:
 
 ```powershell
 npm install
